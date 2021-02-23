@@ -8,7 +8,7 @@ title: Semlor
 
 ### Buns
 
-| Measureent | Ingredient |
+| Measurement | Ingredient |
 | --- | --- |
 | 480g | Bread flour |
 | 7g | Dried yeast |
@@ -21,7 +21,7 @@ title: Semlor
 
 ### Filling
 
-| Measureent | Ingredient |
+| Measurement | Ingredient |
 | --- | --- |
 | 235ml | Cream |
 | 6-8 | Eggs (beaten) |
