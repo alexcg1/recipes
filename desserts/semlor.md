@@ -4,6 +4,8 @@ tags: dessert, medieval
 title: Semlor
 ---
 
+# Semlor
+
 ## Ingredients
 
 ### Buns
